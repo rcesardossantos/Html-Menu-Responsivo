@@ -1,2 +1,2 @@
-# POC-MenuResponsivo
-Teste de Menu responsivo
+# Menu Responsivo
+Menu responsivo básico, utlizando HTML / CSS / JS.
